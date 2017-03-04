@@ -1,0 +1,2 @@
+# pyScriBt
+ScriBt meets Python
